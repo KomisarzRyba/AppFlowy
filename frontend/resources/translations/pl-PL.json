@@ -2,16 +2,16 @@
   "appName": "AppFlowy",
   "defaultUsername": "Ja",
   "welcomeText": "Witaj w @:appName",
-  "githubStarText": "Gwiazdka na GitHub-ie",
-  "subscribeNewsletterText": "Zapisz się do naszego Newslettera",
-  "letsGoButtonText": "Start!",
+  "githubStarText": "Zostaw gwiazdkę na GitHubie",
+  "subscribeNewsletterText": "Zostań na bierząco",
+  "letsGoButtonText": "Zaczynamy!",
   "title": "Tytuł",
   "youCanAlso": "Możesz również",
   "and": "i",
   "blockActions": {
     "addBelowTooltip": "Kliknij, aby dodać poniżej",
-    "addAboveCmd": "Alt+kliknięcie",
-    "addAboveMacCmd": "Opcja + kliknięcie",
+    "addAboveCmd": "Alt+click",
+    "addAboveMacCmd": "Option+click",
     "addAboveTooltip": "aby dodać powyżej",
     "dragTooltip": "Przeciągnij aby przenieść",
     "openMenuTooltip": "Kliknij żeby otworzyć menu"
@@ -30,19 +30,19 @@
     "signUpWith": "Zarejestruj się za pomocą:"
   },
   "signIn": {
-    "loginTitle": "Zaloguj do @:appName",
+    "loginTitle": "Zaloguj się do @:appName",
     "loginButtonText": "Logowanie",
     "loginStartWithAnonymous": "Rozpocznij sesję anonimową",
     "continueAnonymousUser": "Kontynuuj sesję anonimową",
     "buttonText": "Zaloguj",
-    "forgotPassword": "Zapomniałeś hasła?",
+    "forgotPassword": "Zapomniałeś/aś hasła?",
     "emailHint": "Email",
     "passwordHint": "Hasło",
     "dontHaveAnAccount": "Nie masz konta?",
     "repeatPasswordEmptyError": "Powtórzone hasło nie moze być puste",
     "unmatchedPasswordError": "Hasła nie są takie same",
-    "syncPromptMessage": "Synchronizacja danych może chwilę potrwać. Proszę nie zamykać tej strony",
-    "or": "ALBO",
+    "syncPromptMessage": "Synchronizacja danych może chwilę potrwać. Nie zamykaj tej strony",
+    "or": "LUB",
     "LogInWithGoogle": "Zaloguj się za pomocą Google",
     "LogInWithGithub": "Zaloguj się za pomocą Githuba",
     "LogInWithDiscord": "Zaloguj się za pomocą Discorda",
@@ -50,16 +50,16 @@
     "loginAsGuestButtonText": "Rozpocznij"
   },
   "workspace": {
-    "chooseWorkspace": "Wybierz swoją przestrzeń do pracy",
-    "create": "Utwórz przestrzeń",
-    "reset": "Zresetuj przestrzeń roboczą",
-    "resetWorkspacePrompt": "Zresetowanie przestrzeni roboczej spowoduje usunięcie wszystkich znajdujących się w niej stron i danych. Czy na pewno chcesz zresetować przestrzeń roboczą? Alternatywnie możesz skontaktować się z zespołem pomocy technicznej, aby przywrócić przestrzeń roboczą",
-    "hint": "przestrzeń robocza",
-    "notFoundError": "Przestrzeni nie znaleziono",
-    "failedToLoad": "Coś poszło nie tak! Wczytywanie przestrzeni roboczej nie powiodło się. Spróbuj wyłączyć wszystkie otwarte instancje AppFlowy i spróbuj ponownie.",
+    "chooseWorkspace": "Wybierz swój obszar pracy",
+    "create": "Utwórz obszar pracy",
+    "reset": "Zresetuj obszar pracy",
+    "resetWorkspacePrompt": "Zresetowanie obszaru pracy spowoduje usunięcie wszystkich znajdujących się w niej stron i danych. Czy na pewno chcesz zresetować ten obszar pracy? Możesz również skontaktować się z zespołem pomocy technicznej, aby przywrócić ten obszar",
+    "hint": "obszar pracy",
+    "notFoundError": "Nie znaleziono obszaru",
+    "failedToLoad": "Coś poszło nie tak! Wczytywanie obszaru pracy nie powiodło się. Spróbuj zamknąć wszystkie otwarte instancje AppFlowy i spróbuj ponownie.",
     "errorActions": {
       "reportIssue": "Zgłoś problem",
-      "reachOut": "Skontaktuj się na Discord"
+      "reachOut": "Skontaktuj się na Discordzie"
     }
   },
   "shareAction": {
@@ -115,7 +115,7 @@
       "caption": "Tej czynności nie można cofnąć."
     },
     "confirmRestoreAll": {
-      "title": "Czy na pewno chcesz przywrócić wszystkie strony w Koszu?",
+      "title": "Czy na pewno chcesz przywrócić wszystkie strony z Kosza?",
       "caption": "Tej czynności nie można cofnąć."
     },
     "mobile": {
@@ -135,7 +135,7 @@
   "questionBubble": {
     "shortcuts": "Skróty",
     "whatsNew": "Co nowego?",
-    "help": "Pomoc & Wsparcie",
+    "help": "Pomoc i Wsparcie",
     "markdown": "Markdown",
     "debug": {
       "name": "Informacje Debugowania",
